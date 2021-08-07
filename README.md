@@ -1,4 +1,4 @@
-# betterfactory_ocb
+# THMHO_ocb - Orion Context Broker
 This repository contains the dockerized `orion context broker` that is used for sending context information. This contains a docker file of the orion and mongodb. Mongodb helps in data persistance during the communication.
 
 ## Starting up ocb
